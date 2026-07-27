@@ -233,7 +233,7 @@ The dashboard includes:
 
 **Mukul Dev**
 
-- 🔗 GitHub: https://github.com/mukuldev0093-ui
+- 🔗 GitHub: https://github.com/mukuldev54856-ui
 - 💼 LinkedIn: https://www.linkedin.com/in/mukul-dev-706925373/
 
 ---
