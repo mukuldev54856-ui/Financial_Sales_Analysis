@@ -7,9 +7,8 @@
 
 The complete project report is available here:
 
-- [My_Stakeholder_Report.pdf](../../Downloads/My_Stakeholder_Report.pdf)
+- [📄 Financial Sales Analysis Report](./outputs/reports/My_Stakeholder_Report.pdf)
 
-## 📌 Project Overview
 
 This project demonstrates a complete data analytics workflow, starting from raw financial sales data and ending with an interactive Power BI dashboard. The project includes:
 
